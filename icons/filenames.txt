@@ -1,0 +1,66 @@
+filenames.txt
+iconMWAlchemist.gif
+iconMWAncestral Tomb.gif
+iconMWAshlander Camp.gif
+iconMWBarrow.gif
+iconMWBlank.gif
+iconMWBookseller.gif
+iconMWCave.gif
+iconMWCitadel.gif
+iconMWCity.gif
+iconMWClothier.gif
+iconMWCorpse.gif
+iconMWCreature.gif
+iconMWDaedric-Ruin.gif
+iconMWDiamond-Mine.gif
+iconMWDoor.gif
+iconMWDunmer-Stronghold.gif
+iconMWDwemer-Ruin.gif
+iconMWEbony-Mine.gif
+iconMWEgg-Mine.gif
+iconMWEnchanter.gif
+iconMWFighters-Guild.gif
+iconMWFort.gif
+iconMWGeographical.gif
+iconMWGlass-Mine.gif
+iconMWGondolier.gif
+iconMWGrotto.gif
+iconMWGuard-Tower.gif
+iconMWGuilds.gif
+iconMWHealer.gif
+iconMWHouse-Hlaalu.gif
+iconMWHouse-Redoran.gif
+iconMWHouse-Telvanni.gif
+iconMWHouse.gif
+iconMWImperial-Cult.gif
+iconMWLandmark.gif
+iconMWLoot.gif
+iconMWMages-Guild.gif
+iconMWMine.gif
+iconMWMiscellaneous.gif
+iconMWMonument.gif
+iconMWMorag-Tong.gif
+iconMWNone.gif
+iconMWNPC.gif
+iconMWOutpost.gif
+iconMWPawnbroker.gif
+iconMWPlant.gif
+iconMWPropylon.gif
+iconMWRuins.gif
+iconMWSettlements.gif
+iconMWShip.gif
+iconMWShops.gif
+iconMWSilt-Strider.gif
+iconMWSlave Market.gif
+iconMWSmith.gif
+iconMWSpellmaker.gif
+iconMWTavern.gif
+iconMWTelvanni Tower.gif
+iconMWTemple Shrine.gif
+iconMWTemple.gif
+iconMWThieves Guild.gif
+iconMWTown.gif
+iconMWTrader.gif
+iconMWTransportation.gif
+iconMWVelothi Tower.gif
+iconMWVillage.gif
